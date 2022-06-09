@@ -16,7 +16,11 @@
     "url": "https://github.com/nathalie-anneessens/SASS-SCSS-101/issues"
   },
   "homepage": "https://github.com/nathalie-anneessens/SASS-SCSS-101#readme",
-  "dependencies": {
-    "sass": "^1.52.2"
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "glob-parent": "^6.0.2",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "sass": "^1.52.3"
   }
 }
