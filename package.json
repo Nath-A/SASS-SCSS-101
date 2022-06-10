@@ -20,7 +20,17 @@
     "autoprefixer": "^10.4.7",
     "glob-parent": "^6.0.2",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
     "sass": "^1.52.3"
+  },
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ],
+  "dependencies": {
+    "browserslist": "^4.20.4"
   }
 }
