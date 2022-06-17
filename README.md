@@ -8,3 +8,5 @@ Au lieu de copier-coller-pusher le dossier node_modules :
 -  Au préalable, avoir penser à installer node js sur la machine, puis à relancer VS Code. 
 
 W3Schools.com > Aller checker les fonctions qui existent déjà. 
+
+Pour générer un menu d'exemple : nav>ul>li*5>a{lien $}
